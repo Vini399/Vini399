@@ -15,20 +15,6 @@
 
 ---
 
-### 🐍 TRÁFEGO DE REDE (LIVE FEED)
-<!-- 
-[ATENÇÃO - LOG DO SISTEMA]: A imagem da cobrinha continuará invisível (Erro 404) até que você vá na aba "Actions" do seu repositório, crie um workflow configurando o gerador da cobrinha (snk) e execute-o para que ele crie a branch "output".
--->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg">
-    <img alt="Tráfego de commits interceptado" src="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ### 🗃️ DIRETÓRIOS EXPOSTOS
 
 <details>
@@ -59,17 +45,43 @@
 
 </details>
 
-<details open>
-<summary><b>[+] GITHUB_METRICS (LIVE)</b></summary>
-<br>
+---
 
-<!-- LOG DE CORREÇÃO: Removido o parâmetro 'em' das alturas das imagens nativas para forçar a renderização imediata nos servidores do GitHub. -->
+### 📈 TRÁFEGO DE REDE (LIVE FEED) & METRICS
+
+<!-- green snake -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vini399&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EFE2E&text_color=A9B1D6&icon_color=2EFE2E" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini399&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EFE2E&text_color=A9B1D6" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg" alt="Vini399's github activity graph" />
 </div>
 
-</details>
+<!-- stats + languages -->
+| .                                                                                                                                                                                | .                                                                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Vini399's github stats](https://github-readme-stats.vercel.app/api?username=Vini399&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117) | ![Vini399's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini399&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117) |
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vini399&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<!-- dark snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake-dark.svg" alt="Vini399's dark github activity graph" />
+</div>
+
+<!-- profile-green-animate -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile 3D Contrib" />
+</div>
+
+<!-- CodersRank Widgets -->
+<div align="center">
+  <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Vini399&theme=tokyonight" width="auto" alt="CodersRank Summary" />
+  <br>
+  <br>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Vini399&show-other-skills=true&theme=tokyonight" width="auto" alt="CodersRank Skills" />
+</div>
 
 ---
 
