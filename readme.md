@@ -16,6 +16,9 @@
 ---
 
 ### 🐍 TRÁFEGO DE REDE (LIVE FEED)
+<!-- 
+[ATENÇÃO - LOG DO SISTEMA]: A imagem da cobrinha continuará invisível (Erro 404) até que você vá na aba "Actions" do seu repositório, crie um workflow configurando o gerador da cobrinha (snk) e execute-o para que ele crie a branch "output".
+-->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake-dark.svg">
@@ -60,9 +63,10 @@
 <summary><b>[+] GITHUB_METRICS (LIVE)</b></summary>
 <br>
 
+<!-- LOG DE CORREÇÃO: Removido o parâmetro 'em' das alturas das imagens nativas para forçar a renderização imediata nos servidores do GitHub. -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini399&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EFE2E&text_color=A9B1D6&icon_color=2EFE2E" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini399&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EFE2E&text_color=A9B1D6" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vini399&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EFE2E&text_color=A9B1D6&icon_color=2EFE2E" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini399&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EFE2E&text_color=A9B1D6" alt="Top Langs" />
 </div>
 
 </details>
