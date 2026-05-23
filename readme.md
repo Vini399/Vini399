@@ -1,94 +1,77 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EFE2E&center=true&vCenter=true&width=800&lines=Initializing+decryption+protocol...;Bypassing+mainframe+security...;SYSTEM_BREACH:+user_vbenatti+accessed...;Loading+analytical_logic.exe..." alt="Typing effect" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=2EFE2E&center=true&vCenter=true&width=800&lines=[WARN]+UNAUTHORIZED_ACCESS_DETECTED...;Bypassing+mainframe_security_layers...;Decrypting_user_data(vbenatti)...;[OK]+PAYLOAD_INJECTED.+TRANSLATING...;Initializing+analytical_logic.exe..." alt="Hacking effect" />
+
   <p><i>"Traduzindo lógica analítica e teoria econômica em arquiteturas escaláveis."</i></p>
-  <br>
-</div>
 
----
+  <br></div>
 
-### 🗃️ `root@vbenatti:~/directory_tree`
-*Clique nas pastas e scripts abaixo para executar os arquivos e decriptar os dados.*
 
-<details>
-<summary><code><b>[+] ./execute_whoami.sh</b></code></summary>
-<br>
 
-> **STATUS:** Autenticado.  
-> **ROLE:** Desenvolvedor Full-Stack & Fundador @ Synk Labs.  
-> **BASE:** Ciências Econômicas (FURG).  
-> **FOCUS:** Intersecção entre engenharia de software, Inteligência Artificial, automação B2B e mercado financeiro (Venture Capital & Private Equity).  
-> **ATTRIBUTES:** Proficiência em lógica estruturada, alta capacidade analítica e desenvolvimento de modelos de negócios.
+---```console
 
-</details>
+root@vbenatti:~$ ./decrypt_profile.sh
 
-<details>
-<summary><code><b>[+] cat /etc/arsenal_and_stack.conf</b></code></summary>
-<br>
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
 
-**[CORE_LANGUAGES & FRAMEWORKS]** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+STATUS: D̵a̵t̵a̸ ̷R̷e̸c̸o̷v̷e̷r̷e̷d̸ -> Sistema online e monitorando requisições.
 
-**[INFRASTRUCTURE & DATABASES]** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+👁️ cat /sys/class/IDENTITY.log
 
-**[ADVANCED_SKILLS]**
-* Modelagem e Digitalização 3D
-* Agentes Autônomos & Prompt Engineering
-* Integração de APIs B3 & Dashboards de Investimento
+ID: Desenvolvedor Full-Stack & Eng. de Soluções
 
-</details>
+BASE: Ciências Econômicas (FURG) ⬌ Operando no cluster de Rio Grande, RS
 
-<details open>
-<summary><code><b>[+] ls -la /var/active_projects/</b></code></summary>
-<br>
+CORE_THREAT: Intersecção entre engenharia de software, Inteligência Artificial, automação B2B e mercado financeiro (Venture Capital / Private Equity).
 
-| Diretório / Alvo | Classificação | Status | Descrição do Log |
-| :--- | :---: | :---: | :--- |
-| **`./Synk_Labs`** | Agência / Startup | `[ACTIVE]` | Arquitetura de soluções SaaS, desenvolvimento de infraestrutura comercial e sites institucionais. |
-| **`./Sistema_Ouropaes`** | B2B SaaS | `[DEPLOYED]` | Automação de RH e comercialização, orquestrando fluxos e validações com agentes de IA. |
-| **`./Biomodelos`** | Bioengenharia | `[RESEARCH]` | Pesquisa, relatórios e desenvolvimento de soluções em 3D para planejamento cirúrgico. |
-| **`./Tech_Acessibilidade`** | Hardware | `[PROTOTYPE]` | Tecnologias assistivas com foco em impacto social, incluindo impressoras Braille e mapas táteis. |
+MINDSET_DUMP: Modelagem de negócios impulsionada por alta capacidade analítica e proficiência em lógica.
 
-</details>
+🐍 [LIVE_FEED] ./run_network_trace_snake.sh
 
-<details>
-<summary><code><b>[+] ./fetch_github_metrics.py</b></code></summary>
-<br>
+Monitoramento ativo: A serpente devora o tráfego de commits injetados na rede diária.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini399&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini399&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
+🗃️ root@vbenatti:~/directory_tree
 
-</details>
+Acesse os nós abaixo para expor a infraestrutura criptografada.
 
-<details open>
-<summary><code><b>[+] ./run_contribution_tracker.sh</b></code></summary>
-<br>
+[ >_ DECRYPTED_CORE_STACK ]
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+[ >_ DECRYPTED_INFRASTRUCTURE ]
 
-</details>
+[ >_ CYBER_AUGMENTATIONS ]
 
----
+Modelagem e Digitalização 3D
 
-### 📡 `ssh user@vbenatti_network -p 443`
+Agentes Autônomos & Prompt Engineering
 
-```json
+Integração de APIs B3 & Dashboards de Investimento
+
+Target_DirTipoStatusLog_Decifrado./Synk_LabsAgência / Startup<ACTIVE>Arquitetura de soluções SaaS, infraestrutura comercial e sites institucionais../Sistema_OuropaesB2B SaaS<DEPLOYED>Automação de RH e fluxos comerciais (Persona de IA: PadariaRH integrada)../BiomodelosBioengenharia<RESEARCH>Pesquisa e desenvolvimento em 3D voltado para o planejamento cirúrgico../Tech_AcessibilidadeHardware<PROTOTYPE>Tecnologias assistivas focadas em impacto (impressoras Braille, mapas táteis).
+
+Dados renderizados em tempo real interceptando a API nativa do GitHub.
+
+📡 ssh user@vbenatti_network -p 443
+
+JSON
+
+
+
 {
-  "connection_protocols": {
+
+  "system_status": "Aguardando handshake...",
+
+  "instructions": "Envie um ping para iniciar a negociação de protocolos, estruturar startups ou debater arquitetura B2B.",
+
+  "connection_nodes": {
+
     "email": "viniciusfbenatti@gmail.com",
+
     "linkedin": "[https://linkedin.com/in/vinicius-benatti](https://linkedin.com/in/vinicius-benatti)",
+
     "instagram": "[https://instagram.com/_vinibenatti](https://instagram.com/_vinibenatti)_",
+
     "enterprise": "Synk Labs"
-  },
-  "system_message": "Aguardando handshake. Envie um ping para estruturar novas startups ou discutir arquitetura de sistemas."
+
+  }
+
 }
