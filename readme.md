@@ -6,10 +6,6 @@
 
   <br></div>
 
-
-
----```console
-
 root@vbenatti:~$ ./decrypt_profile.sh
 
 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
