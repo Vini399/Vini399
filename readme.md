@@ -47,17 +47,22 @@
 
 ---
 
-### 📈 TRÁFEGO DE REDE (LIVE FEED) & METRICS
+### 📈 TRÁFEGO DE REDE E MÉTRICAS (LIVE FEED)
 
-<!-- green snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg" alt="Vini399's github activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<!-- stats + languages -->
-| .                                                                                                                                                                                | .                                                                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Vini399's github stats](https://github-readme-stats.vercel.app/api?username=Vini399&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117) | ![Vini399's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini399&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117) |
+<br>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vini399&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini399&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</div>
 
 <br>
 
@@ -65,28 +70,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vini399&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-<!-- dark snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vini399/Vini399/output/github-contribution-grid-snake-dark.svg" alt="Vini399's dark github activity graph" />
-</div>
-
-<!-- profile-green-animate -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile 3D Contrib" />
-</div>
-
-<!-- CodersRank Widgets -->
-<div align="center">
-  <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Vini399&theme=tokyonight" width="auto" alt="CodersRank Summary" />
-  <br>
-  <br>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Vini399&show-other-skills=true&theme=tokyonight" width="auto" alt="CodersRank Skills" />
-</div>
-
 ---
 
 ### 📡 NODOS DE CONEXÃO
-*Aguardando handshake para iniciar a negociação de protocolos, estruturar startups ou debater arquitetura B2B.*
 
 <div align="center">
   <a href="mailto:viniciusfbenatti@gmail.com"><img src="https://img.shields.io/badge/Email-viniciusfbenatti%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
